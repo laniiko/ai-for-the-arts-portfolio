@@ -15,15 +15,11 @@ Bullet point list of goals:
 The goal of this project is to document my learning journey and present clear, accessible explanations of the code. 
 
 
-Files:
-
-Image:
-
 ![picture1](https://github.com/user-attachments/assets/299be814-f1ea-4530-87d9-39867203d6a5)
 
 
-Audio:
-[audio1.webm](https://github.com/user-attachments/assets/a3dd15be-87e6-4b93-96be-28fc34541188)
+https://github.com/user-attachments/assets/8e655e01-4774-4c02-8d7a-3f69d82e1a42
 
-[audio2.webm](https://github.com/user-attachments/assets/e795c091-5f62-4d49-94bf-3502d31bee64)
+
+https://github.com/user-attachments/assets/b8700eac-32f5-4a1d-a988-b37bcf49ce11
 
