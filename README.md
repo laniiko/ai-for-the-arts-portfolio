@@ -13,13 +13,3 @@ Bullet point list of goals:
 - Explore the features available within GitHub
 
 The goal of this project is to document my learning journey and present clear, accessible explanations of the code. 
-
-
-![picture1](https://github.com/user-attachments/assets/299be814-f1ea-4530-87d9-39867203d6a5)
-
-
-https://github.com/user-attachments/assets/8e655e01-4774-4c02-8d7a-3f69d82e1a42
-
-
-https://github.com/user-attachments/assets/b8700eac-32f5-4a1d-a988-b37bcf49ce11
-
